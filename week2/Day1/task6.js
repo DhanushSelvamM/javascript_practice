@@ -1,3 +1,7 @@
+/*Task 9: Create an object account with properties: name, balance and
+methods: deposit, withdraw. Use the this keyword appropriately.
+Task 10: For the account object, ensure that the balance can’t go negative using
+the this keyword.*/
 let account={
     name:'Dhanush',
     balance:4000,

@@ -1,3 +1,6 @@
+/*Task 7: Design a circle object with properties radius and a method to calculate its area
+using this.radius.
+Task 8: Extend the circle object with methods to calculate its diameter and circumference.*/
 let Circle={
     radius:5,
     calculate:function(){

@@ -1,3 +1,7 @@
+/*Task 5: Create an object representing a person. Add methods to increase and decrease
+their age property. Ensure the age doesn’t go below 0.
+Task 6: For the person object, add a method named greet that uses the this keyword to greet
+with the person’s name.*/
 let Person={
     Name:'Dhanush',
     age:12,

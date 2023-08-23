@@ -1,3 +1,7 @@
+/*Task 9: Create an object account with properties: name, balance and
+methods: deposit, withdraw. Use the this keyword appropriately.
+Task 10: For the account object, ensure that the balance can’t go negative using
+the this keyword.*/
 let fruit=[];
 fruit.push('Mango');
 fruit.push('Apple');
